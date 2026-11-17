@@ -1,0 +1,6 @@
+{
+  "name": "Tom Rush Jack",
+  "description": "High-octane 3D superhero endless runner with selectable heroes, multi-world tracks, raccoon bandits, power-ups, and an animated lobby gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
